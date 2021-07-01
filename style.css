@@ -62,23 +62,23 @@ span{
     margin-top: 80px;
     align-content: center;
 }
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, rgb(236, 83, 48), rgb(219, 131, 116));
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: white;
+    font-weight: bold;
+}
 .btn:hover{
     text-decoration: none;
     text-transform: uppercase;
     font: bolder;
     border: 1px solid gray;
-    border-radius: 20px;
+    border-radius: 15px;
     color: white;
     padding: 4px 10px;
     background-image: linear-gradient(180deg, green, rgb(77, 228, 77));
-}
-.btn{
-    text-decoration: none;
-    background-image: linear-gradient(180deg, rgb(236, 83, 48), rgb(219, 131, 116));
-    border-radius: 12px;
-    padding: 5px 10px;
-    color: white;
-    font-weight: bold;
 }
 .work-area{
     text-align: center;
